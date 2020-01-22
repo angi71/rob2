@@ -18,5 +18,3 @@ opponents.
 The alliance that scores more points in the Autonomous period is awarded with (6) bonus points, added to the final score at the end of the 
 match. The Alliance who wins this Autonomous Bonus is also awarded 2 purple cubes, which may be introduced at any time during the driver 
 control period.
-
-
